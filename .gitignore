@@ -2,3 +2,4 @@ venv
 *.pyc
 *.iml
 .idea
+lecture-09/exercise_DL_pcg/
