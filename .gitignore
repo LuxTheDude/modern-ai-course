@@ -3,3 +3,4 @@ venv
 *.iml
 .idea
 lecture-09/exercise_DL_pcg/
+lecture-10/pacman/
